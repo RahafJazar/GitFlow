@@ -5,9 +5,7 @@ public class Student{
 		printMessage("Welcomme Ahmad In atypon training") ;
                 Student s1= new Student();
 		System.out.println(s1.getAge());
-
-		
-
+		System.out.println(s1.getAge()+1);
 
 	}
 	public static void printMessage(String msg){
